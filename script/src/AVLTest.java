@@ -348,7 +348,7 @@ public class AVLTest extends javax.swing.JFrame {
         }
     }
 
-    // Inorder
+    // Inorder botton
     private void jButton3ActionPerformed(java.awt.event.ActionEvent evt) {
         if (avl == null) {
             return;
